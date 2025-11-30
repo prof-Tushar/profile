@@ -1,75 +1,86 @@
-# Hi there 👋 I’m **Tushar Shedmake**  
-**AI / ML Engineer | Generative AI & Data-Driven Systems**
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="coding gif">
+</p>
+
+<h1 align="center">👋 Hey, I'm <span style="color:#00E8FF;">Tushar Shedmake</span></h1>
+<h3 align="center">AI / ML Engineer | Generative AI | NLP | Machine Learning</h3>
 
 ---
 
-## 🧑‍💻 About Me  
-- 4+ years of hands-on experience designing, building and deploying scalable ML/AI systems, end-to-end data pipelines, NLP and Generative AI solutions.  
-- Passionate about solving complex problems using Machine Learning, Deep Learning, NLP, and real-time data pipelines.  
-- Skilled in both model development and MLOps: from data ingestion and training to production deployment and monitoring.
+<!-- Social Badges -->
+<p align="center">
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:tusharshedmake23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 🚀 Skills & Tools  
-
-**Languages & Programming:** Python, Java, SQL, MongoDB  
-**Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, CatBoost, RNN, LSTM, GANs  
-**NLP & Generative AI:** BERT, Hugging Face, Transformers, LangChain, RAG, Vector DBs (FAISS / Pinecone / Milvus)  
-**MLOps & Deployment:** Docker, Kubernetes, Airflow, MLflow, FastAPI, CI/CD  
-**Data & Big Data:** AWS, Apache Spark, Hadoop, Kafka, SQL / NoSQL databases  
-**Analytics & BI:** Tableau, Power BI, Pandas, NumPy  
-**Other Tools:** Git, Advanced Excel, Data Cleaning & ETL  
+## 🧠 **About Me**
+🧑‍💻 AI/ML Engineer with 4+ years experience in developing scalable Machine Learning, Deep Learning and Generative AI systems.  
+⚙ Passionate about model optimization, NLP, RAG systems, vector search and MLOps deployments.  
+🚀 Always exploring new technologies and contributing to open-source.
 
 ---
 
-## 🏢 Work Experience  
-
-### **AI / ML Engineer** — jhex, Ahmedabad (Oct 2023 – Present)  
-- Built and deployed AI-powered claims-processing models — improved prediction accuracy by **28%** and cut manual review time by **40%**.  
-- Designed real-time ETL pipelines using **Spark + Kafka** for fraud detection and anomaly alerts.  
-- Developed NLP & GenAI pipelines for document processing (SpaCy, BERT, LangChain), ensuring compliance and automation.  
-- Containerized and deployed ML services using **Docker & Kubernetes**, delivering **99.9% uptime** in production.  
-
-### **Python Developer** — Arkin Techno Pvt Ltd, Pune (Jun 2021 – Oct 2023)  
-- Optimized SQL queries and DB architecture; reduced system response time by **50%** and improved backend efficiency by **35%**.  
-- Processed and labeled **10K+ datasets/day** for ML training data with ~**86% accuracy**.  
-- Created dashboards and data-driven reporting tools increasing decision-making speed and business insights by **20%**.  
+## ⚒️ **Tech Stack**
+| Category | Tools |
+|---------|--------|
+| **Languages** | Python, SQL, Java |
+| **ML / DL** | TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM |
+| **GenAI / NLP** | LangChain, Hugging Face, BERT, Transformers, RAG, FAISS, Pinecone |
+| **MLOps & Deployment** | Docker, Kubernetes, Airflow, MLflow, FastAPI, CI/CD |
+| **Big Data** | Apache Spark, Hadoop, Kafka |
+| **Cloud** | AWS |
+| **Visualization** | Tableau, Power BI |
 
 ---
 
-## 📂 Select Projects  
+## 🏢 **Work Experience**
+🔹 **AI / ML Engineer — jhex (2023–Present)**  
+• Improved prediction accuracy +28%, reduced manual workload 40%  
+• Built real-time fraud detection system with Spark + Kafka  
+• Deployed models via Docker + Kubernetes (99.9% uptime)
 
-**Disease Classification from Patient Symptoms**  
-- Developed a BERT-based classifier with **78% accuracy** and **F1-score ~77%**.  
-- Built a Django + FastAPI backend — reduced patient wait time by **30%** via automated reporting.
-
-**Life Insurance Automation System**  
-- Automated financial report generation & amortization calculations using Python + SQL, saving **100+ hours/month**.  
-- Developed reporting dashboards (Tableau + Django) for stakeholders to monitor KPIs in real time.  
-
----
-
-## 🎓 Education & Training  
-
-**Bachelor of Engineering – Civil Engineering**  
-Baburao Deshmukh College of Engineering, Maharashtra (Dec 2020) — **80.02%**
-
-**Data Science Professional Certificate** — Pune (Aug 2020 – Jan 2021)  
-Covered: Advanced Python, Machine Learning, SQL, NLP, Data Analysis  
+🔹 **Python Developer — Arkin Techno Pvt Ltd (2021–2023)**  
+• Optimized SQL pipelines 50% faster | Profit gain +20%  
+• Built analytics dashboards & automated reporting
 
 ---
 
-## 🤝 Volunteer & Extra-Curricular  
-
-Volunteered with Chatrapati Shivaji Foundation — community service and social work  
-
----
-
-## 🌐 Let’s Connect  
-
-[LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/your-username)  
-(Replace with your actual URLs)
+## 🏆 **Featured Projects**
+| Project | Description |
+|---------|-------------|
+| **AI Disease Classification (GenAI + BERT)** | 78% accuracy, automated diagnosis & reduced patient wait 30% |
+| **Insurance Automation System** | Saved 100+ hours monthly via automated processing |
 
 ---
 
-> “Building intelligent systems that learn from data and drive value at scale.”  
+## 📊 GitHub Stats (Dark Theme)
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=vision-friendly-dark&show_icons=true&hide_border=true">
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast&hide_border=true">
+</p>
+
+---
+
+## 🧩 Top Languages
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true">
+</p>
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
+<a href="https://github.com/yourusername"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
+<a href="mailto:tusharshedmake23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
+</p>
+
+---
+
+### ⚡ Fun Quote
+> *"Artificial Intelligence is not the future — it's the present, and I build it."* 🚀
+
