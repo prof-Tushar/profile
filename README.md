@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 AI/ML Engineer with **4+ years of experience** building and deploying end-to-end machine learning and generative AI solutions.  
 Experienced in developing **LLM-based NLP pipelines and RAG systems** using Python, TensorFlow, Hugging Face, and LangChain.  
@@ -27,16 +27,45 @@ Focused on delivering **high-accuracy AI models and data-driven insights** that 
 
 ---
 
-## ⚒️ Tech Stack
-| Category | Tools |
-|---------|--------|
-| **Languages** | Python, SQL |
-| **ML / DL** | TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM |
-| **GenAI / NLP** | LangChain, Hugging Face, BERT, Transformers, RAG, FAISS, Pinecone |
-| **MLOps & Deployment** | Docker, Kubernetes, Airflow, MLflow, FastAPI, CI/CD |
-| **Big Data** | Apache Spark, Kafka |
-| **Cloud** | AWS (SageMaker, EC2, S3, Lambda) |
-| **Visualization** | Power BI, Tableau |
+
+## ⚒️ Tech Stack  
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,sql" />
+</p>
+
+### 🤖 AI / ML / GenAI
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge">
+<img src="https://img.shields.io/badge/BERT-NLP-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-System-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/FAISS-VectorDB-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Pinecone-VectorDB-black?style=for-the-badge">
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+<img src="https://img.shields.io/badge/REST%20API-Integration-orange?style=for-the-badge">
+</p>
+
+### ☁️ Cloud & MLOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+<img src="https://img.shields.io/badge/MLflow-Tracking-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Airflow-Orchestration-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/CI/CD-Automation-green?style=for-the-badge">
+</p>
+
+###  Data & Visualization
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tableau-Analytics-blue?style=for-the-badge">
+</p>
 
 ---
 
