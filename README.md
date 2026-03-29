@@ -18,9 +18,12 @@
 ---
 
 ## 🧠 About Me
-🧑‍💻 AI/ML Engineer with **4+ years of experience** building scalable Machine Learning and Generative AI systems  
-⚙ Specialized in **LLMs, NLP, RAG pipelines, and MLOps deployments**  
-🚀 Passionate about solving real-world problems using AI  
+
+AI/ML Engineer with **4+ years of experience** building and deploying end-to-end machine learning and generative AI solutions.  
+Experienced in developing **LLM-based NLP pipelines and RAG systems** using Python, TensorFlow, Hugging Face, and LangChain.  
+
+Strong expertise in **MLOps, model deployment, and scalable systems** using Docker, Kubernetes, and AWS.  
+Focused on delivering **high-accuracy AI models and data-driven insights** that create real business impact.
 
 ---
 
@@ -41,15 +44,15 @@
 
 🔹 **AI / ML Engineer — Jhex (Jan 2024 – Present)**  
 • Built end-to-end AI systems improving process efficiency by **25%**  
-• Developed **LLM-based NLP pipelines** reducing manual effort by **40%**  
-• Designed **RAG systems with LangChain + FAISS** for document retrieval  
-• Deployed scalable models using **AWS SageMaker, Docker, Kubernetes (98% uptime)**  
+• Developed LLM-based NLP pipelines reducing manual effort by **40%**  
+• Designed RAG systems using LangChain + FAISS for high-precision retrieval  
+• Deployed scalable solutions using AWS SageMaker, Docker, Kubernetes (**98% uptime**)  
 
 🔹 **ML Engineer — Infosys (Jan 2021 – Dec 2023)**  
-• Developed deep learning models (CNN, LSTM) improving accuracy by **18%**  
-• Built recommendation systems increasing engagement by **12%**  
-• Designed forecasting models (ARIMA, Prophet, LSTM) reducing stockouts by **20%**  
-• Automated ML pipelines using **CI/CD, Jenkins, Docker**  
+• Built deep learning models (CNN, LSTM) improving accuracy by **18%**  
+• Developed recommendation systems increasing user engagement by **12%**  
+• Created forecasting models (ARIMA, Prophet, LSTM) reducing stockouts by **20%**  
+• Automated ML lifecycle using CI/CD, Docker, Jenkins  
 
 ---
 
@@ -57,8 +60,8 @@
 
 | Project | Description |
 |---------|-------------|
-| 🤖 **Generative AI Q&A Bot** | Built RAG system using LangChain + FAISS handling 100K+ docs with high precision |
-| 📈 **Demand Forecasting System** | Hybrid ARIMA + Prophet + LSTM model with real-time Power BI dashboards |
+| 🤖 **Generative AI Q&A Bot** | Built RAG system using LangChain + FAISS handling 100K+ documents |
+| 📈 **Demand Forecasting System** | Hybrid ARIMA + Prophet + LSTM model with Power BI dashboards |
 
 ---
 
@@ -71,10 +74,14 @@
 
 ---
 
-## 🧩 Top Languages
+## 🧩 Core Expertise
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-Tushar&layout=compact&theme=github_dark&hide_border=true">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Deep%20Learning-Advanced-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Generative%20AI-Expert-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MLOps-Advanced-red?style=for-the-badge">
 </p>
 
 ---
